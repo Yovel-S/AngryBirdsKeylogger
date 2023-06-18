@@ -17,6 +17,8 @@ This game is infected with a keylogger!
 
 Credit
 ----------------
+StegnoTool was written by us with inspiration from David Robin works
+
 The original Angry Birds python game written by Estevao Fonseca:
 https://github.com/estevaofon/angry-birds-python
 
