@@ -27,7 +27,7 @@ Activate &  Deactivate the wall
 ![Alt text](/resources/images/walls.png?raw=true "angry-birds")
 * To activate or deactivate the wall press key w.
 
-Join the project
+Credit
 ----------------
-The project is Open Source. Feel free to contribute.
-Please help me to keep this project updated! Thanks you very much :)
+The original Angry Birds python game written by Estevao Fonseca:
+https://github.com/estevaofon/angry-birds-python
